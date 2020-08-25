@@ -1,4 +1,4 @@
-# Welcome to BruteSnow 👋
+# This is BruteSnow ! ☃️
 ![Version](https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000)
 [![Twitter: dootdoot1111](https://img.shields.io/twitter/follow/dootdoot1111.svg?style=social)](https://twitter.com/dootdoot1111)
 
