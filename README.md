@@ -15,6 +15,8 @@ git clone https://github.com/dootdoot1111/BruteSnow.git
 ```sh
 ./bruteforcesnow.sh < dictionary-file>
 ```
+// modify the bash script to include the file to work on!
+
 
 ## Author
 
